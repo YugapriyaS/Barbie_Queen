@@ -1,0 +1,66 @@
+body{
+    background: url(https://i.pinimg.com/originals/51/9e/3d/519e3db49462ec4554cabea24978fd55.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'oswald',sans-serif;
+}
+.heading
+{
+    width: 1300px;
+    height: 80px;
+    margin-left: 380px;
+    margin-top: 175px;
+    background: rgba(27, 30, 137, 0.836);
+}
+.barbie
+{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-display: initial;
+}
+.heading h1{
+    position: absolute;
+    margin-left: 430px;
+    color: white;
+    margin-top: 15px;
+}
+.main
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1300px;
+    height: 800px;
+    background: rgba(0,0, 0, 0.66);
+    margin-left: 380px;
+}
+h2{
+    margin-left: 120px;
+    margin-top: 50px;
+    color: white;
+}
+.first
+{
+    margin-left: 60px;
+}
+.firstimage
+{
+    margin-left: 0px;
+    margin-top: 40px;
+}
+.second
+{
+    margin-right: 50px;
+}
+.secondimage
+{
+    margin-top: 40px;
+}
+.image
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
